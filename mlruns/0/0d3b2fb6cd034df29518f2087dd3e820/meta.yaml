@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/0d3b2fb6cd034df29518f2087dd3e820/artifacts
+end_time: 1644525349205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 0d3b2fb6cd034df29518f2087dd3e820
+run_uuid: 0d3b2fb6cd034df29518f2087dd3e820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644525349172
+status: 3
+tags: []
+user_id: jataf
